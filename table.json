@@ -3,7 +3,7 @@
     "id":1,
     "day":"السبت",
     "times":{
-      "physics":"6-8",
+      "physics":"2-8",
       "chemistry":"---",
       "bio":"----"
     }
@@ -25,7 +25,7 @@
     "times":{
       "physics":"6-8",
       "chemistry":"8:30-10",
-      "bio":"5-6"
+      "bio":"4-6"
     }
   },
   {
@@ -55,7 +55,7 @@
     "times":{
       "physics":"6-8",
       "chemistry":"---",
-      "bio":"5-6"
+      "bio":"10-12"
     }
   },
   {
@@ -65,7 +65,7 @@
     "times":{
       "physics":"---",
       "chemistry":"---",
-      "bio":"5-6"
+      "bio":"2-6"
     }
   }
 ]
